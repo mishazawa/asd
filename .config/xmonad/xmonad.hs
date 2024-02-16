@@ -1,6 +1,4 @@
-
 import XMonad
-
 import XMonad.Util.EZConfig
 import XMonad.Hooks.EwmhDesktops
 import XMonad.Hooks.ManageDocks
