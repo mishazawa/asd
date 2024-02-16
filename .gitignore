@@ -1,36 +1,32 @@
-*
-!.git/**
-!.gitignore
+/.cache/**
 
-# X stuff
+/.config/**
+!/.config/kitty/
+!/.config/kitty/*
 
-!.xinitrc
-!.xbindkeysrc
-!.Xresources
-!.xscreensaver
 
-# packages
+!/.config/neofetch/
+!/.config/neofetch/*
 
-!.deps.txt
+!/.config/xmonad/
+!/.config/xmonad/*
 
-# shell stuff
 
+!/.config/xmobar/
+!/.config/xmobar/*
+
+
+/.local/**
+/.mozilla/**
+/Downloads/**
+/.vim/**
+/.oh-my-*
+
+.bash_*
 !.bash_profile
-!.bashrc
-!.zprofile
-!.zshrc
 
-# wallpaper config
-
-!.fehbg
-
-# config directory
-
-!.config/kitty/**/*.conf
-!.config/neofetch/**
-!.config/xmobar/**
-!.config/xmonad/**
-
-# local directory
-
-!.local/wallpapers/**
+.shell.pre-*
+.vim*
+.Xauthority
+.zcompdump*
+.zsh_*
