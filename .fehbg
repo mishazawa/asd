@@ -1,0 +1,2 @@
+#!/bin/sh
+feh --no-fehbg --bg-fill '/home/asd/.local/share/wallpapers/1334920.png' 

@@ -1,0 +1,36 @@
+*
+!.git/**
+!.gitignore
+
+# X stuff
+
+!.xinitrc
+!.xbindkeysrc
+!.Xresources
+!.xscreensaver
+
+# packages
+
+!.deps.txt
+
+# shell stuff
+
+!.bash_profile
+!.bashrc
+!.zprofile
+!.zshrc
+
+# wallpaper config
+
+!.fehbg
+
+# config directory
+
+!.config/kitty/**
+!.config/neofetch/**
+!.config/xmobar/**
+!.config/xmonad/**
+
+# local directory
+
+!.local/wallpapers/**
