@@ -1,9 +1,8 @@
-/.cache/**
-
+# configs
 /.config/**
+
 !/.config/kitty/
 !/.config/kitty/*
-
 
 !/.config/neofetch/
 !/.config/neofetch/*
@@ -11,17 +10,19 @@
 !/.config/xmonad/
 !/.config/xmonad/*
 
-
 !/.config/xmobar/
 !/.config/xmobar/*
 
-
+# useless dirs
+/.cache/**
 /.local/**
 /.mozilla/**
 /Downloads/**
 /.vim/**
 /.oh-my-*
+/.ssh/**
 
+# shell stuff
 .bash_*
 !.bash_profile
 
