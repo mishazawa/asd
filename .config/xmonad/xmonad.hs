@@ -55,4 +55,4 @@ myManageHook = composeAll [ manageDocks,
 
 myLogHook = fadeInactiveLogHook fadeAmount
   where
-    fadeAmount = 0.8 
+    fadeAmount = 0.9 

@@ -18,6 +18,7 @@
 /.local/**
 /.mozilla/**
 /Downloads/**
+/Documents/**
 /.vim/**
 /.oh-my-*
 /.ssh/**
